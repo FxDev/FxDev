@@ -3,6 +3,10 @@
 
 - 📝 I regularly write articles on [firatdeveci.com](firatdeveci.com)
 
+https://avatars.githubusercontent.com/u/10152631?v=4
+
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="[https://cdn.worldvectorlogo.com/logos/arduino-1.svg](https://avatars.githubusercontent.com/u/10152631?v=4)" alt="arduino" width="40" height="40"/>
+
 - 📫 You can reach me using an e-mail: **info@firatdeveci.com**
 
 <h3 align="left">Languages and Tools:</h3>
