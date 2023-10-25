@@ -3,6 +3,8 @@
 
 - 📝 I regularly write articles on <a href="https://www.firatdeveci.com/" target="_blank">firatdeveci.com</a>
 
+<a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a>
+
 - 📫 You can reach me using an e-mail: **info@firatdeveci.com**
 
 <h3 align="left">Languages and Tools:</h3>
