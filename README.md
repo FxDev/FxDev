@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fırat Deveci</h1>
 <h3 align="center">Power Electronics System Architect</h3>
 
-- 📝 I regularly write articles on <a href="https://www.firatdeveci.com/" target="_blank">firatdeveci.com</a>
+- 📝 I regularly write articles on <a href="https://www.firatdeveci.com/" target="_blank" rel="noreferrer noopener">firatdeveci.com</a>
 
 <a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a>
 
