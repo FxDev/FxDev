@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fırat Deveci</h1>
 <h3 align="center">Power Electronics System Architect</h3>
 
-- 📝 I regularly write articles on [firatdeveci.com](firatdeveci.com)
+- 📝 I regularly write articles on <a href="https://www.firatdeveci.com/">firatdeveci.com</a>
 
 - 📫 You can reach me using an e-mail: **info@firatdeveci.com**
 
