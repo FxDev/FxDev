@@ -5,7 +5,7 @@
 
  https://avatars.githubusercontent.com/u/10152631?v=4
 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg](https://avatars.githubusercontent.com/u/10152631?v=4)" alt="c" width="40" height="40"/> </a>
 
 - 📫 You can reach me using an e-mail: **info@firatdeveci.com**
 
